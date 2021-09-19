@@ -12,7 +12,7 @@ You also need to set path fdaM in the MATLAB. It descrbes in tutorial pdf file.
  <br> 2- Unzip it in your PC  <br /> 
  <br> 3- Open the MATLAB  <br />
  <br> 4- Run “addtopath('...\fdaM');”  <br />
- <br>  4- or in the MATLAB , Home tab ->   Environment ->  set path -> add with subfolder -> fdaM .  <br />
+ <br>    or in the MATLAB , Home tab ->   Environment ->  set path -> add with subfolder -> fdaM .  <br />
  <br>    fdaM reference: [6] J.O. Ramsay, Giles Hooker, Spencer Graves, “Functioanl Data Analysis with R and MATLAB”, Springer, 2009.   <br />
 
 # Versions
@@ -22,5 +22,5 @@ V0.1 - initial release (2021-09)
 
 # Tutorials
 The Tutorial folder contains:
-	1- Tutorial PDF.
-	2- Sample Datasets. 
+ <br>	1- Tutorial PDF.  <br />
+ <br>	2- Sample Datasets.   <br />
